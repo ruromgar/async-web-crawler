@@ -1,0 +1,5 @@
+aiohttp==3.7.3
+beautifulsoup4==4.9.3
+# fastapi 0.63.0 depends on starlette==0.13.6
+starlette==0.13.6
+../common-utils/
