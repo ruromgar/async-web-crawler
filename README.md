@@ -1,6 +1,5 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Original exercise](#original-exercise)
 - [System architecture](#system-architecture)
 - [Quickstart](#quickstart)
