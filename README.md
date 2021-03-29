@@ -6,11 +6,7 @@
 
 # Original exercise
 
-Write a web crawler using python that crawls a single domain, but should work for any domain.
-
-For example, given the URL news.ycombinator.com, it should crawl the main page and the comments, but not any external links. After finishing crawling the program should print the links between pages.
-
-The goal is to make the crawler work as fast as possible by using async programming with `gevent`. Please try to write it in a professional manner.
+** Removed **
 
 # System architecture
 
